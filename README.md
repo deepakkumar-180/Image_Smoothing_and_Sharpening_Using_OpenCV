@@ -137,7 +137,7 @@ plt.show()
 ```
 
 ##  Output
-<img width="1107" height="771" alt="image" src="https://github.com/user-attachments/assets/ec5b7048-0a8f-40d4-a193-5820cc998f7d" />
+
 
 ### Smoothing Filters
 
