@@ -1,4 +1,4 @@
-# Image_Smoothing_and_Sharpening_Using_OpenCV
+# EXP5-Image_Smoothing_and_Sharpening_Using_OpenCV
 
 ## Aim
 
