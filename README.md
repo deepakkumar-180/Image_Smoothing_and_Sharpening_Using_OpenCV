@@ -76,7 +76,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Step 1: Read the input image
-img = cv2.imread("bird.jpg")
+img = cv2.imread("bird.png")
 
 if img is None:
     print("Error: Image not found!")
@@ -137,6 +137,7 @@ plt.show()
 ```
 
 ##  Output
+<img width="1150" height="896" alt="image" src="https://github.com/user-attachments/assets/cdf7c8e8-1fa2-45c0-9b19-48a27e6c4b74" />
 
 
 ### Smoothing Filters
